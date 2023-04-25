@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "54B9CA93D74C6563402FE7C4BBC36D5E",
+  "keywordClasses": [
+    {
+      "name": "onBoarding.Login",
+      "keywordMethods": [
+        {
+          "name": "successfullyLogin",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Login\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
